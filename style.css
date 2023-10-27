@@ -212,6 +212,8 @@ li {
   }
 
   .middlebottom {
+    background-size: 700px;
+    background-position: -5%, -200%;
     width: 1250px;
     height: 400px;
     display: flex;
@@ -250,6 +252,7 @@ li {
     justify-content: center;
   }
   .desktop-only-2 {
+    display: block;
     width: 70%;
     height: 70%;
     margin: 0;
