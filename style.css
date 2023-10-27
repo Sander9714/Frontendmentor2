@@ -78,6 +78,9 @@ button {
 .desktop-only {
   display: none;
 }
+.desktop-only-2 {
+  display: none;
+}
 img {
   max-width: 100%;
 }
